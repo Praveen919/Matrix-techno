@@ -1,0 +1,260 @@
+.grow-smarter-together {
+  position: absolute;
+  top: -0.1px;
+  left: calc(50% - 275.4px);
+  line-height: 52.8px;
+  font-weight: 900;
+}
+.find-top-rated-study {
+  position: absolute;
+  top: 84.4px;
+  left: calc(50% - 212.64px);
+  font-size: 22px;
+  line-height: 24.2px;
+  font-family: var(--font-dm-sans);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 425.42px;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 198.33px;
+  width: 773.33px;
+  height: 193.2px;
+}
+.search-for-courses {
+  position: relative;
+}
+.input {
+  flex: 1;
+  border-radius: 3px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 11.200018882751465px 180.26251220703125px 11.649981498718262px
+    176.4625244140625px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.div2,
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.form {
+  padding: 11.774993896484375px 3.99993896484375px 11.775007247924805px 0;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+.div2 {
+  width: calc(100% - 416.67px);
+  top: 193.2px;
+  right: 208.35px;
+  left: 208.33px;
+  border-radius: 100px;
+  background-color: var(--color-white);
+  border: 1px solid #e6ebef;
+  box-sizing: border-box;
+  padding: 8.79998779296875px 32.79998779296875px 8.800010681152344px;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: #9ea9b5;
+  font-family: var(--font-dm-sans);
+}
+.div,
+.div2,
+.svg-icon1 {
+  position: absolute;
+}
+.svg-icon1 {
+  top: 341.2px;
+  left: calc(50% - 20px);
+  width: 40px;
+  height: 32px;
+}
+.div {
+  top: calc(50% - 126.6px);
+  left: calc(50% - 585px);
+  width: 1170px;
+  height: 381.2px;
+}
+.svg-icon2 {
+  position: relative;
+  width: 17.5px;
+  height: 20px;
+}
+.matrix-techno {
+  position: absolute;
+  top: 3.5px;
+  left: 4.5px;
+  line-height: 22.86px;
+  font-weight: 800;
+}
+.studocu-logo {
+  position: relative;
+  width: 124px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 0 740.0250244140625px 0 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.register,
+.sign-in {
+  line-height: 22.86px;
+  font-weight: 500;
+}
+.sign-in {
+  position: absolute;
+  top: calc(50% - 11.73px);
+  left: calc(50% - 83.44px);
+}
+.register {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-dm-sans);
+  color: #264402;
+  text-align: center;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 8.274999618530273px 19.437528610229492px 8.725000381469727px
+    19.637475967407227px;
+  background-color: #e0ff6e;
+  position: absolute;
+  top: calc(50% - 20px);
+  left: 97.4px;
+  border-radius: var(--br-9980xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div6 {
+  position: relative;
+  width: 206.48px;
+  height: 40px;
+}
+.insvg-icon {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 10.67px);
+  width: 21.33px;
+  height: 16px;
+  overflow: hidden;
+}
+.text {
+  position: absolute;
+  top: -2.4px;
+  left: 13.7px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.79px;
+  height: 20.8px;
+}
+.i,
+.svg-icon3 {
+  position: relative;
+  height: 16px;
+}
+.i {
+  width: 32px;
+  display: none;
+  z-index: 1;
+}
+.svg-icon3 {
+  width: 14px;
+  z-index: 0;
+}
+.button1,
+.div3,
+.div5 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button1 {
+  border-radius: var(--br-9980xl);
+  display: none;
+  align-items: flex-start;
+  gap: var(--gap-xs);
+}
+.div3,
+.div5 {
+  display: flex;
+  align-items: center;
+}
+.div5 {
+  padding: 0 0.000030517578125px 0 0;
+  gap: 8px;
+  font-family: var(--font-dm-sans);
+}
+.div3 {
+  position: absolute;
+  top: 18px;
+  left: 174.6px;
+}
+.headerheader-position-handle {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 759.61px);
+  background-color: rgba(24, 23, 25, 0.4);
+  width: 1519.2px;
+  height: 76px;
+  font-size: var(--font-size-base);
+}
+.section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1519.2px;
+  height: 681.2px;
+  background-image: url(./public/section@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.explore {
+  position: absolute;
+  top: calc(50% - 312.96px);
+  left: calc(50% + 237.63px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 500;
+  font-family: var(--font-dm-sans);
+}
+.home-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1519.2px;
+  height: 681.2px;
+  overflow: hidden;
+}
+.home-page-parent {
+  position: relative;
+  width: 100%;
+  height: 681.2px;
+  text-align: center;
+  font-size: 48px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
